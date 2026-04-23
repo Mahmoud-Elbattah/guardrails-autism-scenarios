@@ -32,4 +32,4 @@ This code is intended for research and educational exploration only. It is not d
 
 **Citation**
 
-Citation details will be added after publication.
+Elbattah, M., & Cilia, F. (2026). Designing guardrails to align LLM-generated social scenarios with the needs of autistic learners. Proceedings of the 19th International Conference on Health Informatics (HEALTHINF 2026). https://doi.org/10.5220/0014699200004070
