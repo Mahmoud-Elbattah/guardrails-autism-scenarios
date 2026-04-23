@@ -2,7 +2,7 @@
 
 This repository contains code and scenario templates for exploring the use of explicit guardrails to constrain LLM-generated social interaction scenarios designed for autistic learners. The focus is on low-stakes educational contexts and exploratory practice, not on clinical assessment or personalised intervention.
 
-The repository accompanies a paper submitted to HealthINF 2026 and supports transparency and reproducibility.
+The repository accompanies a paper published in HealthINF 2026 and supports transparency and reproducibility.
 
 **Contents**
 
